@@ -1,4 +1,4 @@
-/* Peter Abdulmasih
+/* Petermsih
 *
 * Programming Essentials
 *
