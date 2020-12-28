@@ -2,8 +2,6 @@
 *
 * Programming Essentials
 *
-* Mr. Drass
-*
 * Original Version: 
 *
 * 3/12/2019
