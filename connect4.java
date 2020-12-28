@@ -1,4 +1,4 @@
-/* Petermsih
+/* Peter
 *
 * Programming Essentials
 *
